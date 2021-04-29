@@ -51,7 +51,7 @@
   background-image: linear-gradient(#adcce9, #cfdedf);
   box-shadow: 0 8px 11px 0px rgba(26,26,26,0.4);
   min-height: 128px;
-  animation-duration: 2500ms;
+  animation-duration: 1000ms;
   height: auto;
 }
 
