@@ -71,6 +71,7 @@
   min-height: 452px;
   height: auto;
   width: 170px;
+  animation-duration: 1000ms;
   margin: 60px auto;
 }
 
