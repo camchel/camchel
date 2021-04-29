@@ -34376,10 +34376,16 @@ a.u-link.u-text-hover-grey-90:hover {
     width: auto;
   }
 }
-
+@media (max-width: 991px) {
+  .u-header .u-image-1 {
+    width: auto;
+    height: auto;
+  }
+}
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     width: auto;
+    height: 32px;
   }
 }
 
