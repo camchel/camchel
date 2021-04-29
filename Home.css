@@ -70,8 +70,8 @@
 .u-section-1 .u-custom-html-2 {
   min-height: 452px;
   height: auto;
-  width: 170px;
   animation-duration: 1000ms;
+  width: 570px;
   margin: 60px auto;
 }
 
@@ -189,6 +189,7 @@
   }
 
   .u-section-1 .u-custom-html-2 {
+    width: 540px;
     margin-top: 50px;
   }
 }
